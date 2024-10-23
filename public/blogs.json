@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co.com/QjXLx97/1.jpg",
+      "title": "Journey Through the Stars",
+      "author": "Liam Thompson",
+      "author_img": "https://i.ibb.co.com/wSFcBQG/boy1.png",
+      "posted_date": "2024-10-01",
+      "reading_time": 5,
+      "hashtags": ["#sciencefiction", "#space", "#adventure"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co.com/84cC1Z2/2.png",
+      "title": "The Forgotten Lands",
+      "author": "Emma Collins",
+      "author_img": "https://i.ibb.co.com/BjpDm3k/girl1.jpg",
+      "posted_date": "2024-09-25",
+      "reading_time": 8,
+      "hashtags": ["#fantasy", "#mystery", "#epic"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co.com/YD27JGg/3.png",
+      "title": "Echoes of the Past",
+      "author": "Oliver Scott",
+      "author_img": "https://i.ibb.co.com/Jxv6JZ9/boy2.jpg",
+      "posted_date": "2024-09-15",
+      "reading_time": 12,
+      "hashtags": ["#history", "#drama", "#war"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co.com/fqfs7C7/4.jpg",
+      "title": "Whispers in the Dark",
+      "author": "Sophia Rivera",
+      "author_img": "https://i.ibb.co.com/Jxv6JZ9/boy2.jpg",
+      "posted_date": "2024-08-30",
+      "reading_time": 6,
+      "hashtags": ["#thriller", "#mystery", "#suspense"]
+    }
+    
+  ]
+  
